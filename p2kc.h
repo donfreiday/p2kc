@@ -36,7 +36,7 @@ enum
  *   Prototypes
  *
  *****************************************************************/
-char* getenv(char*);
+//char* getenv(char*);
 void file_manager_error (gchar*);
 void populate_tree_model1 (GtkWidget*);
 void populate_tree_model2 (GtkWidget*);
